@@ -1,13 +1,6 @@
-# Sample Hardhat Project
+# Introduction
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+exBora is the exercise token of BoraBora, which is non-transferable and non-tradable. Users can obtain it by participating in contract transactions. The owned exBora has two purposes. First, it can be swapped for USDT, or it can be exchanged for the platform currency 1:1 after the Bora platform currency is issued.
 
-Try running some of the following tasks:
+<img width="416" alt="image" src="https://github.com/boraboradao/Borabora-ExBora/assets/103490210/6754ea25-a5ef-4bc2-96e4-83998510d376">
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
